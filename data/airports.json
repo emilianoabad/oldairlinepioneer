@@ -1,0 +1,42 @@
+[
+  {
+      "code": "DFW",
+      "name": "Dallas/Fort Worth International Airport",
+      "city": "Dallas",
+      "country": "USA",
+      "latitude": 32.896801,
+      "longitude": -97.038002
+  },
+  {
+      "code": "JFK",
+      "name": "John F. Kennedy International Airport",
+      "city": "New York City",
+      "country": "USA",
+      "latitude": 40.639751,
+      "longitude": -73.778925
+  },
+  {
+      "code": "FRA",
+      "name": "Frankfurt Airport",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "latitude": 50.026421,
+      "longitude": 8.543125
+  },
+  {
+      "code": "CDG",
+      "name": "Charles de Gaulle Airport",
+      "city": "Paris",
+      "country": "France",
+      "latitude": 49.012779,
+      "longitude": 2.55
+  },
+  {
+      "code": "GRU",
+      "name": "São Paulo–Guarulhos International Airport",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "latitude": -23.432075,
+      "longitude": -46.469511
+  }
+]
