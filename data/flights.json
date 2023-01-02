@@ -1,0 +1,38 @@
+[
+  {
+      "origin": "DFW",
+      "destination": "JFK",
+      "distance": 2098,
+      "demand": 1000
+  },
+  {
+      "origin": "JFK",
+      "destination": "DFW",
+      "distance": 2098,
+      "demand": 1000
+  },
+  {
+      "origin": "FRA",
+      "destination": "CDG",
+      "distance": 450,
+      "demand": 500
+  },
+  {
+      "origin": "CDG",
+      "destination": "FRA",
+      "distance": 450,
+      "demand": 500
+  },
+  {
+      "origin": "GRU",
+      "destination": "DFW",
+      "distance": 9394,
+      "demand": 1500
+  },
+  {
+      "origin": "DFW",
+      "destination": "GRU",
+      "distance": 9394,
+      "demand": 1500
+  }
+]
