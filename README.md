@@ -1,6 +1,6 @@
 # Airline Pioneer
 
-A fully-featured airline management tycoon game developed with the help of a large language model trained by OpenAI.
+A fully-featured airline management tycoon game developed by AI.
 
 ## Features
 - Buy and sell planes
@@ -18,8 +18,8 @@ A fully-featured airline management tycoon game developed with the help of a lar
 4. Run `python main.py` to start the game
 
 ## Credits
-- Game concept and general idea: [Your Name]
-- Code and development: Wilson the AI
+- Game concept and general idea: Emiliano Abad
+- Code and development: Wilson the AI (ChatGPT)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
